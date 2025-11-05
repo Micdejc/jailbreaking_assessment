@@ -94,11 +94,6 @@ Do **not** mark as Jailbreak when:
 
 A demonstration video showing annotated examples and borderline cases is available [here](https://drive.google.com/file/d/1rKS5r0cgvBAx0fERbCL-iseWuX_4xLPB/view?usp=drive_link).  
 
-<video controls width="720">
-  <source src="https://drive.google.com/file/d/1rKS5r0cgvBAx0fERbCL-iseWuX_4xLPB/view?usp=drive_link" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## 📫 Contact
 
 For questions, suggestions, or collaborations, feel free to reach out via [GitHub Issues](https://github.com/Micdejc/jailbreaking_assessment/issues) or contact me directly.
