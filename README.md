@@ -29,10 +29,10 @@ The following rules guide the assessment process:
    Do not attempt real-world malicious tasks; focus on **simulation and controlled testing**.
 
 4. **Categorization**  
-   Classify attacks by type (e.g., prompt injection, role manipulation, logic bypass).
+   Classify attacks by type (e.g., script-based, instruction-based).
 
 5. **Metrics & Scoring**  
-   Use both **human evaluation** and automated metrics like METEOR, BLEU, or semantic similarity to score attacks.
+   Use both **human evaluation** and automated evaluators to score attacks.
 
 6. **Documentation**  
    Record each test case with:  
@@ -49,10 +49,10 @@ We welcome contributions! You can help by:
 - Improving automated evaluation scripts
 - Reporting issues or inconsistencies
 
-## 📄 License
-
-Copyright (c) 2025, Michael Tchuindjang All rights reserved.
-
 ## 📫 Contact
 
 For questions, suggestions, or collaborations, feel free to reach out via [GitHub Issues](https://github.com/Micdejc/jailbreaking_assessment/issues) or contact me directly.
+
+## 📄 License
+
+Copyright (c) 2025, Michael Tchuindjang All rights reserved.
