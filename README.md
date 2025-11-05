@@ -24,7 +24,7 @@ Each CSV corresponds to one experiment run and contains model responses for the 
 - **Multi-step**: Indicates how many turns were used (values range from 1 to 3).  
 - **QueryType**: Either `script-based` or `instruction-based`.  
 - **Unique ID**: Groups prompts that belong to the same underlying attack (repeatable across turn variants).
-- 
+
 Full dataset documentation is available at: [Grammatical Mirage Attack's Dataset](https://github.com/Micdejc/llm_multiturn_attacks/tree/main/datasets)
   
 ## 📖 Definitions (for assessors)
