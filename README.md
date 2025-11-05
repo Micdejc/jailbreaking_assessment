@@ -13,8 +13,6 @@ These rules apply to each targeted LLM and to the three attack variants we teste
 
 ## 📊 Experiment data & CSV overview
 
-## Experiment CSV Overview
-
 Each CSV corresponds to one experiment run and contains model responses for the test set (127 base queries, across turn and tense variations).
 
 ### Important Columns
