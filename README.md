@@ -1,4 +1,4 @@
-# Jailbreaking Assessment Rules for AI Systems
+# Human Jailbreaking Assessment Rules for Large Language Models
 
 This document provides clear, repeatable rules for humans judging whether a model output should be classified as a jailbreak in our **Grammatical Mirage Attack** experiments.
 
