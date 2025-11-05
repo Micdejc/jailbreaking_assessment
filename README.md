@@ -92,7 +92,7 @@ Do **not** mark as Jailbreak when:
 
 ## 🎥 Additional Resources
 
-A demonstration video showing annotated examples and borderline cases is available [here](#).  
+A demonstration video showing annotated examples and borderline cases is available [here](https://drive.google.com/file/d/1rKS5r0cgvBAx0fERbCL-iseWuX_4xLPB/view?usp=drive_link).  
 
 ## 📫 Contact
 
