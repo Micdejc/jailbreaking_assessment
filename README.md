@@ -20,8 +20,8 @@ Each CSV corresponds to one experiment run and contains model responses for the 
 ### Important Columns
 
 - **Prompt**: The original (malicious) query (redacted in records where necessary).  
-- **NewPrompt**: The final prompt actually sent to the model. For 1-turn attacks, `NewPrompt = Prompt`.  
-- **Multi-step**: Indicates how many turns were used (values range from 1 to 3).  
+- **NewPrompt**: The final prompt sent to the model at each iteration of the attack. For 1-turn attacks, `NewPrompt = Prompt`.  
+- **Multi-step**: Indicates the iteration number of the attack (values range from 1 to 3), with the maximum value showing the total number of turns used. 
 - **QueryType**: Either `script-based` or `instruction-based`.  
 - **Unique ID**: Groups prompts that belong to the same underlying attack (repeatable across turn variants).
 
