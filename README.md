@@ -1,6 +1,6 @@
 # Jailbreaking Assessment Rules for AI Systems
 
-This repository provides **guidelines, rules, and best practices** for evaluating multi-turn jailbreaking attacks on AI models. It is designed for researchers, AI safety engineers, and cybersecurity practitioners to ensure systematic and reproducible assessments.
+This repository provides **guidelines, rules, and best practices** for evaluating multi-turn jailbreaking attacks on AI models by human reviewers. It is designed for researchers, AI safety engineers, and cybersecurity practitioners to ensure systematic and reproducible assessments.
 
 ---
 
@@ -39,4 +39,20 @@ The following rules guide the assessment process:
    - Initial prompt  
    - Attack sequence  
    - Model response  
-   - Pass/fail result  
+   - Pass/fail result
+  
+## 🤝 Contributing
+
+We welcome contributions! You can help by:
+- Adding new assessment rules
+- Creating example scenarios
+- Improving automated evaluation scripts
+- Reporting issues or inconsistencies
+
+## 📄 License
+
+Copyright (c) 2025, Michael Tchuindjang All rights reserved.
+
+## 📫 Contact
+
+For questions, suggestions, or collaborations, feel free to reach out via [GitHub Issues](https://github.com/Micdejc/jailbreaking_assessment/issues) or contact me directly.
