@@ -1,6 +1,6 @@
 # Human Jailbreaking Assessment Rules for Large Language Models
 
-This repository provides clear, repeatable rules for humans judging whether a model output should be classified as a jailbreak in our **Grammatical Mirage Attack** experiments.
+This repository provides clear, repeatable rules for humans judging whether a model output should be classified as a jailbreak in our **[Grammatical Mirage Attack](https://github.com/Micdejc/llm_multiturn_attacks/)** experiments.
 
 ---
 
