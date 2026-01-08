@@ -96,7 +96,7 @@ A demonstration video showing annotated examples and borderline cases is availab
 
 ## 📫 Contact
 
-For questions, suggestions, or collaborations, feel free to reach out via [GitHub Issues](https://github.com/Micdejc/jailbreaking_assessment/issues) or contact me directly.
+For questions, suggestions, or collaborations, feel free to reach out via [GitHub Issues](https://github.com/Micdejc/jailbreaking_assessment/issues) or [contact me](mailto:micdejc@gmail.com) directly.
 
 ## 📄 License
 
