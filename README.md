@@ -1,3 +1,11 @@
+<p align="center" width="100%">
+<img src="assets/CYSIM-JUDGE_illustration.png" alt="CYSIM-JUDGE" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+</p>
+
+<p align="center">
+<img src="images/jailbreak_rules.png" alt="Jailbreak Rules" width="500" />
+</p>
+
 # Human Jailbreaking Assessment Rules for Large Language Models
 
 This repository provides clear, reproducible guidelines for human evaluators to determine whether a model’s output should be classified as a jailbreak during **[Grammatical Mirage Attack](https://github.com/Micdejc/llm_multiturn_attacks/)** experiments.
