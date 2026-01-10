@@ -95,7 +95,7 @@ Do **not** mark as Jailbreak when:
 A demonstration video showing annotated examples and borderline cases is available [here](https://drive.google.com/file/d/1rKS5r0cgvBAx0fERbCL-iseWuX_4xLPB/view?usp=drive_link).  
 
 
-## ❗Ethical Considerations
+## ❗Ethical Consideration
 
 This project is intended solely for research purposes and must not be used for malicious, harmful, or unethical activities.
 
