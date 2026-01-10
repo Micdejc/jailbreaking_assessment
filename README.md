@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/CYSIM-JUDGE_illustration.png" alt="CYSIM-JUDGE" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+<img src="images/jailbreak_rules.png" alt="Jailbreak Rules" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 <p align="center">
