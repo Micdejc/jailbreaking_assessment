@@ -6,7 +6,7 @@ This repository provides clear, reproducible guidelines for human evaluators to 
 
 ## 🔹 Scope
 
-These rules apply to each targeted LLM and to the three attack variants we tested: **1-turn**, **2-turn**, and **3-turn** attacks, which can be found in [`experiment-data`](experiment_data). Each attack was also evaluated with tense variations (present / past). Assessors should judge **only the final response** from the model for each test case.
+These rules apply to each targeted LLM and to the three attack variants we tested: **1-turn**, **2-turn**, and **3-turn** attacks, which can be found in [`experiment_data`](experiment_data). Each attack was also evaluated with tense variations (present / past). Assessors should judge **only the final response** from the model for each test case.
 
 ---
 
