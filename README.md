@@ -1,7 +1,3 @@
-<p align="center" width="100%">
-<img src="images/jailbreak_rules.png" alt="Jailbreak Rules" style="width: 100%; min-width: 300px; display: block; margin: auto;">
-</p>
-
 <p align="center">
 <img src="images/jailbreak_rules.png" alt="Jailbreak Rules" width="500" />
 </p>
